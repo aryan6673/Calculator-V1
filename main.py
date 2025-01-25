@@ -28,7 +28,7 @@ init()
 print(Fore.LIGHTCYAN_EX +'''
 Welcome to calculator !
 
-Create by aliakbartnt !
+Create by aryan !
 
 It's simple calculator !
 
